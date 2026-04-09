@@ -1,2 +1,2 @@
 # thefiks
-Repository untuk menyimpan data
+Repository untuk menyimpan data seorang Fikri Andarlan
